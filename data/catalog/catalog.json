@@ -1,7 +1,7 @@
 {
   "shop": "Hotwired Car Audio",
   "note": "Public quote-builder parts catalog. Customer prices (MSRP; Memphis at MAP). No costs.",
-  "count": 823,
+  "count": 822,
   "items": [
     {
       "id": "ca-3da40fe515",
@@ -12295,25 +12295,6 @@
       "market": "car",
       "flags": "",
       "image": "img/products/712g-d2-d4.jpg"
-    },
-    {
-      "id": "dd-64a7158f4e",
-      "name": "DD Audio 15\" Subwoofer",
-      "sku": "715g-D2/D4",
-      "upc": "",
-      "brand": "DD Audio",
-      "category": "Subwoofers",
-      "subcategory": "700G Series",
-      "price": 499.0,
-      "msrp": 499.0,
-      "map": 499.0,
-      "qty": "",
-      "kind": "part",
-      "showPrice": true,
-      "laborNote": null,
-      "taxable": true,
-      "market": "car",
-      "flags": ""
     },
     {
       "id": "dd-14537f5fbb",
