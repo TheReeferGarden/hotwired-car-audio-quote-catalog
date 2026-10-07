@@ -10554,7 +10554,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/atc-400.jpg"
+      "image": "img/products/atc-400.jpg",
+      "minOhm": 1
     },
     {
       "id": "dd-4ca0307376",
@@ -10574,7 +10575,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/ss600.jpg"
+      "image": "img/products/ss600.jpg",
+      "minOhm": 1
     },
     {
       "id": "dd-83fe77f2a0",
@@ -10594,7 +10596,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/ss850.jpg"
+      "image": "img/products/ss850.jpg",
+      "minOhm": 1
     },
     {
       "id": "dd-5255c979fe",
@@ -10614,7 +10617,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/ss1100.jpg"
+      "image": "img/products/ss1100.jpg",
+      "minOhm": 1
     },
     {
       "id": "dd-6f85942bf4",
@@ -10634,7 +10638,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/ss2000.jpg"
+      "image": "img/products/ss2000.jpg",
+      "minOhm": 1
     },
     {
       "id": "dd-010f239b64",
@@ -10654,7 +10659,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/ss3000.jpg"
+      "image": "img/products/ss3000.jpg",
+      "minOhm": 1
     },
     {
       "id": "dd-21709267a4",
@@ -10674,7 +10680,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/ss6000.jpg"
+      "image": "img/products/ss6000.jpg",
+      "minOhm": 1
     },
     {
       "id": "dd-7482f989aa",
@@ -10694,7 +10701,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/ss9000.jpg"
+      "image": "img/products/ss9000.jpg",
+      "minOhm": 1
     },
     {
       "id": "dd-e5b0843241",
@@ -10714,7 +10722,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/ss4.500.jpg"
+      "image": "img/products/ss4.500.jpg",
+      "minOhm": 2
     },
     {
       "id": "dd-2d1ad663fa",
@@ -10734,7 +10743,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/ss4.1300.jpg"
+      "image": "img/products/ss4.1300.jpg",
+      "minOhm": 2
     },
     {
       "id": "dd-ae87207540",
@@ -10754,7 +10764,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/ss4.3000.jpg"
+      "image": "img/products/ss4.3000.jpg",
+      "minOhm": 2
     },
     {
       "id": "dd-1cf1b58a32",
@@ -10774,7 +10785,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/ss5.500.jpg"
+      "image": "img/products/ss5.500.jpg",
+      "minOhm": 1
     },
     {
       "id": "dd-6bef465880",
@@ -10794,7 +10806,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/ss5.1500.jpg"
+      "image": "img/products/ss5.1500.jpg",
+      "minOhm": 1
     },
     {
       "id": "dd-d95882184e",
@@ -10814,7 +10827,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/sx4.1000bt.jpg"
+      "image": "img/products/sx4.1000bt.jpg",
+      "minOhm": 2
     },
     {
       "id": "dd-d51776510d",
@@ -10834,7 +10848,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/sx1000.jpg"
+      "image": "img/products/sx1000.jpg",
+      "minOhm": 1
     },
     {
       "id": "dd-63fd37d646",
@@ -10854,7 +10869,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/d1100.jpg"
+      "image": "img/products/d1100.jpg",
+      "minOhm": 1
     },
     {
       "id": "dd-907c1a809c",
@@ -10874,7 +10890,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/d4.800.jpg"
+      "image": "img/products/d4.800.jpg",
+      "minOhm": 2
     },
     {
       "id": "dd-d1831b8603",
@@ -10894,7 +10911,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/d4.2200.jpg"
+      "image": "img/products/d4.2200.jpg",
+      "minOhm": 1
     },
     {
       "id": "dd-edb8bec558",
@@ -10914,7 +10932,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/m2500a.jpg"
+      "image": "img/products/m2500a.jpg",
+      "minOhm": 1
     },
     {
       "id": "dd-1e4766bb21",
@@ -10934,7 +10953,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/m5000a.jpg"
+      "image": "img/products/m5000a.jpg",
+      "minOhm": 1
     },
     {
       "id": "dd-ebd1da98b4",
@@ -10954,7 +10974,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/m9000.jpg"
+      "image": "img/products/m9000.jpg",
+      "minOhm": 1
     },
     {
       "id": "dd-6af29c41c0",
@@ -10994,7 +11015,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/z13000.jpg"
+      "image": "img/products/z13000.jpg",
+      "minOhm": 1
     },
     {
       "id": "dd-16b9952d7c",
@@ -14649,7 +14671,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/dsp1200.8-at.jpg"
+      "image": "img/products/dsp1200.8-at.jpg",
+      "minOhm": 2
     },
     {
       "id": "ad-aaea5890c9",
@@ -14668,7 +14691,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/x2.4k.6.jpg"
+      "image": "img/products/x2.4k.6.jpg",
+      "minOhm": 2
     },
     {
       "id": "ad-14b4f0e2fb",
@@ -14687,7 +14711,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/sd1400.6.jpg"
+      "image": "img/products/sd1400.6.jpg",
+      "minOhm": 2
     },
     {
       "id": "ad-20b69660a7",
@@ -14706,7 +14731,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/sd2400.5.jpg"
+      "image": "img/products/sd2400.5.jpg",
+      "minOhm": 1
     },
     {
       "id": "ad-a3352300ef",
@@ -14725,7 +14751,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/sd1600.4x.jpg"
+      "image": "img/products/sd1600.4x.jpg",
+      "minOhm": 2
     },
     {
       "id": "ad-f9f761ae53",
@@ -14744,7 +14771,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/sd1200.4.jpg"
+      "image": "img/products/sd1200.4.jpg",
+      "minOhm": 2
     },
     {
       "id": "ad-a22e7f8657",
@@ -14763,7 +14791,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/sd800.4x.jpg"
+      "image": "img/products/sd800.4x.jpg",
+      "minOhm": 2
     },
     {
       "id": "ad-6849960355",
@@ -14782,7 +14811,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/sd500.4x.jpg"
+      "image": "img/products/sd500.4x.jpg",
+      "minOhm": 2
     },
     {
       "id": "ad-b727d9f7a1",
@@ -14801,7 +14831,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/mk300.2.jpg"
+      "image": "img/products/mk300.2.jpg",
+      "minOhm": 2
     },
     {
       "id": "ad-3ba58c0f7f",
@@ -14820,7 +14851,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/x12k.1.jpg"
+      "image": "img/products/x12k.1.jpg",
+      "minOhm": 1
     },
     {
       "id": "ad-6f80426c25",
@@ -14839,7 +14871,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/x8k.1.jpg"
+      "image": "img/products/x8k.1.jpg",
+      "minOhm": 1
     },
     {
       "id": "ad-7c648796c7",
@@ -14858,7 +14891,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/x4k.1.jpg"
+      "image": "img/products/x4k.1.jpg",
+      "minOhm": 1
     },
     {
       "id": "ad-bbcf5914c5",
@@ -14877,7 +14911,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/x3k.1.jpg"
+      "image": "img/products/x3k.1.jpg",
+      "minOhm": 1
     },
     {
       "id": "ad-43377ad19f",
@@ -14896,7 +14931,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/sd2000.1x.jpg"
+      "image": "img/products/sd2000.1x.jpg",
+      "minOhm": 1
     },
     {
       "id": "ad-52c4edc1bd",
@@ -14915,7 +14951,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/x1.5k.1.jpg"
+      "image": "img/products/x1.5k.1.jpg",
+      "minOhm": 1
     },
     {
       "id": "ad-f766348b1c",
@@ -14934,7 +14971,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/sd1200.1x.jpg"
+      "image": "img/products/sd1200.1x.jpg",
+      "minOhm": 1
     },
     {
       "id": "ad-e4096a5683",
@@ -14953,7 +14991,8 @@
       "taxable": true,
       "market": "car",
       "flags": "",
-      "image": "img/products/sd600.1x.jpg"
+      "image": "img/products/sd600.1x.jpg",
+      "minOhm": 1
     }
   ]
 }
