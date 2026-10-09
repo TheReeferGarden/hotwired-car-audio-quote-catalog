@@ -1,7 +1,7 @@
 {
   "shop": "Hotwired Car Audio",
   "note": "Public quote-builder parts catalog. Customer prices (MSRP; Memphis at MAP). No costs.",
-  "count": 817,
+  "count": 818,
   "items": [
     {
       "id": "ca-3da40fe515",
@@ -10389,6 +10389,23 @@
       "laborNote": null,
       "taxable": true,
       "market": "powersports"
+    },
+    {
+      "id": "ca-efb8aadd37",
+      "name": "Audiovox Dual 10.1\" Seat-Back Entertainment System",
+      "sku": "AMAVXSB10UHD2",
+      "upc": "",
+      "brand": "Audiovox",
+      "category": "Cameras",
+      "subcategory": "Mobile Video",
+      "price": 1799,
+      "msrp": 1799,
+      "qty": "",
+      "kind": "part",
+      "showPrice": true,
+      "laborNote": null,
+      "taxable": true,
+      "market": "car"
     },
     {
       "id": "dd-22166bd15c",
