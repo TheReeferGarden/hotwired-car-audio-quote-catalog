@@ -600,7 +600,7 @@
     },
     {
       "id": "ca-36c48c70a6",
-      "name": "Alliance 4x125 Class D Amplifier",
+      "name": "Alliance 250x4 @2Ω Class D Amplifier",
       "sku": "VL2000.4",
       "upc": "",
       "brand": "Alliance",
@@ -634,7 +634,7 @@
     },
     {
       "id": "ca-448a4ab9e3",
-      "name": "Alliance 5-Channel Amplifier",
+      "name": "Alliance 5-Channel Amplifier 150x4 + 510x1 @2Ω",
       "sku": "VL3200.5",
       "upc": "",
       "brand": "Alliance",
@@ -7299,7 +7299,7 @@
     },
     {
       "id": "mem-9a0c36f2c3",
-      "name": "Memphis SRX 300x1 @2Ω Street Reference Amp",
+      "name": "Memphis SRX 250x1 @2Ω Street Reference Amp",
       "sku": "SRX300.1V",
       "upc": "",
       "brand": "Memphis",
@@ -7379,7 +7379,7 @@
     },
     {
       "id": "mem-b40cae3c35",
-      "name": "Memphis SE 75x4 @2Ω Street Edge Amp",
+      "name": "Memphis SE 85x4 @2Ω Street Edge Amp",
       "sku": "SE1200.4V2",
       "upc": "",
       "brand": "Memphis",
@@ -9439,7 +9439,7 @@
     },
     {
       "id": "mem-637ef1957e",
-      "name": "Memphis Marine 6ch Amp 100x4 & 250x2 @2Ω",
+      "name": "Memphis Marine 6ch Amp 90x4 + 300x2 @2Ω",
       "sku": "MM900.6V",
       "upc": "",
       "brand": "Memphis",
