@@ -683,7 +683,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "kitGauge": 4
     },
     {
       "id": "ca-591f76561c",
@@ -752,7 +753,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "kitGauge": 4
     },
     {
       "id": "ca-3df15dfc24",
@@ -803,7 +805,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "kitGauge": 4
     },
     {
       "id": "ca-96327d5521",
