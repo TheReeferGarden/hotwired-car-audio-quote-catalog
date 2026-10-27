@@ -666,7 +666,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "kitGauge": 4
+      "kitGauge": 4,
+      "image": "img/products/falcon.jpg"
     },
     {
       "id": "ca-a850e93248",
@@ -684,7 +685,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "kitGauge": 4
+      "kitGauge": 4,
+      "image": "img/products/x2800.8-dsp.jpg"
     },
     {
       "id": "ca-591f76561c",
@@ -702,7 +704,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "kitGauge": 4
+      "kitGauge": 4,
+      "image": "img/products/blackbird.jpg"
     },
     {
       "id": "ca-aba3f3cff6",
@@ -719,7 +722,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/x21100.1.jpg"
     },
     {
       "id": "ca-275add43bf",
@@ -736,7 +740,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/x22500.1.jpg"
     },
     {
       "id": "ca-c94ba48c50",
@@ -754,7 +759,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "kitGauge": 4
+      "kitGauge": 4,
+      "image": "img/products/x2450.4.jpg"
     },
     {
       "id": "ca-3df15dfc24",
@@ -771,7 +777,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/x21100.5.jpg"
     },
     {
       "id": "ca-2860a7ffe0",
@@ -788,7 +795,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/x21200.6.jpg"
     },
     {
       "id": "ca-075804cc4b",
@@ -806,7 +814,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "kitGauge": 4
+      "kitGauge": 4,
+      "image": "img/products/x2600.4.jpg"
     },
     {
       "id": "ca-96327d5521",
@@ -2195,7 +2204,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/ps16-pro.jpg"
     },
     {
       "id": "ca-90ac611801",
@@ -2212,7 +2222,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/ps8-pro.jpg"
     },
     {
       "id": "ca-1952a18530",
@@ -2229,7 +2240,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/psm-pro.jpg"
     },
     {
       "id": "ca-a5fce0d2f7",
@@ -4017,7 +4029,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/x2462.jpg"
     },
     {
       "id": "ca-a1629358a5",
@@ -4034,7 +4047,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/motocx69.jpg"
     },
     {
       "id": "ca-45a685f772",
@@ -4051,7 +4065,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/rs6.0.jpg"
     },
     {
       "id": "ca-1dcb3f78a1",
@@ -4068,7 +4083,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/rs1.0.jpg"
     },
     {
       "id": "ca-9879d28419",
@@ -4085,7 +4101,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/x21.0.jpg"
     },
     {
       "id": "ca-66ec4a5388",
@@ -4102,7 +4119,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/x2402.jpg"
     },
     {
       "id": "ca-5b9b8b2361",
@@ -4119,7 +4137,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/x2502.jpg"
     },
     {
       "id": "ca-4bb4e8ae0b",
@@ -4136,7 +4155,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/x2692.jpg"
     },
     {
       "id": "ca-884dff183f",
@@ -6671,7 +6691,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/arc10d4.jpg"
     },
     {
       "id": "ca-053f7d6e26",
@@ -6688,7 +6709,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/a10d2.jpg"
     },
     {
       "id": "ca-536f375d1f",
@@ -6705,7 +6727,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/a10d4.jpg"
     },
     {
       "id": "ca-bcd6d0b860",
@@ -6722,7 +6745,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/a12d2.jpg"
     },
     {
       "id": "ca-6eaeb03ebe",
@@ -6739,7 +6763,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/a12d4.jpg"
     },
     {
       "id": "ca-5c8f5ac0b7",
@@ -6756,7 +6781,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/10d2v3.jpg"
     },
     {
       "id": "ca-ede4a24d62",
@@ -6773,7 +6799,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/10d4v3.jpg"
     },
     {
       "id": "ca-901fdfe06c",
@@ -7960,7 +7987,7 @@
     },
     {
       "id": "mem-788cbc8942",
-      "name": "Memphis PRX 10\" 1/2/4 Ohm Selectable Sub, RGB Back Lit",
+      "name": "Memphis PRX 10\" 1/2/4 Ohm Selectable Sub, RGB Back Lit (PRXL10FTV)",
       "sku": "PRXL10FTV",
       "upc": "",
       "brand": "Memphis",
@@ -7979,7 +8006,7 @@
     },
     {
       "id": "mem-b7e15ef539",
-      "name": "Memphis PRX 12\" 1/2/4 Ohm Selectable Sub, RGB Back Lit",
+      "name": "Memphis PRX 12\" 1/2/4 Ohm Selectable Sub, RGB Back Lit (PRXL12FTV)",
       "sku": "PRXL12FTV",
       "upc": "",
       "brand": "Memphis",
@@ -7998,7 +8025,7 @@
     },
     {
       "id": "mem-d172aa9811",
-      "name": "Memphis PRX 10\" 1/2/4 Ohm Selectable Sub, RGB Back Lit",
+      "name": "Memphis PRX 10\" 1/2/4 Ohm Selectable Sub, RGB Back Lit (PRXL10FT)",
       "sku": "PRXL10FT",
       "upc": "",
       "brand": "Memphis",
@@ -8017,7 +8044,7 @@
     },
     {
       "id": "mem-dc045537a6",
-      "name": "Memphis PRX 12\" 1/2/4 Ohm Selectable Sub, RGB Back Lit",
+      "name": "Memphis PRX 12\" 1/2/4 Ohm Selectable Sub, RGB Back Lit (PRXL12FT)",
       "sku": "PRXL12FT",
       "upc": "",
       "brand": "Memphis",
@@ -9989,7 +10016,8 @@
       "showPrice": true,
       "laborNote": "+ Labor",
       "taxable": true,
-      "market": "harley"
+      "market": "harley",
+      "image": "img/products/mpak14-hd.jpg"
     },
     {
       "id": "ca-21fe1cc45c",
