@@ -1417,7 +1417,7 @@
     },
     {
       "id": "ca-d341d25fa1",
-      "name": "RDV Wireless Carplay/Android Auto for Select Audi",
+      "name": "RDV Wireless Carplay/Android Auto for select Audi w/ MIB2 radio (CP1-MIB2)",
       "sku": "CP1-MIB2",
       "upc": "",
       "brand": "RDV",
@@ -1434,7 +1434,7 @@
     },
     {
       "id": "ca-c9397ed8f9",
-      "name": "RDV Wireless Carplay/Android Auto for Select Audi",
+      "name": "RDV Wireless Carplay/Android Auto for select Audi A6 / Q7 w/ MMI 3G (CP1-MMI3G-A6/Q7)",
       "sku": "CP1-MMI3G-A6/Q7",
       "upc": "",
       "brand": "RDV",
@@ -1451,7 +1451,7 @@
     },
     {
       "id": "ca-07940191cc",
-      "name": "RDV Wireless Carplay/Android Auto for Select Audi",
+      "name": "RDV Wireless Carplay/Android Auto for select Audi w/ MMI 3G navigation (CP3-MMI3G-Q3N)",
       "sku": "CP3-MMI3G-Q3N",
       "upc": "",
       "brand": "RDV",
@@ -1468,7 +1468,7 @@
     },
     {
       "id": "ca-f56d6351aa",
-      "name": "RDV Wireless Carplay/Android Auto for select Bentley",
+      "name": "RDV Wireless Carplay/Android Auto for select Bentley Mulsanne w/ MMI 3G navigation (CP1-MMI3G-A8)",
       "sku": "CP1-MMI3G-A8",
       "upc": "",
       "brand": "RDV",
@@ -1485,7 +1485,7 @@
     },
     {
       "id": "ca-11ff2346b3",
-      "name": "RDV Wireless Carplay/Android Auto for select Bentley",
+      "name": "RDV Wireless Carplay/Android Auto for select Bentley Continental (CP-BNT)",
       "sku": "CP-BNT",
       "upc": "",
       "brand": "RDV",
@@ -1536,7 +1536,7 @@
     },
     {
       "id": "ca-64b066c723",
-      "name": "RDV Wireless Carplay/Android Auto for select Infiniti",
+      "name": "RDV Wireless Carplay/Android Auto for select Infiniti w/ matching screen plugs (CP1-INF-Q)",
       "sku": "CP1-INF-Q",
       "upc": "",
       "brand": "RDV",
@@ -1553,7 +1553,7 @@
     },
     {
       "id": "ca-b760d7d73b",
-      "name": "RDV Wireless Carplay/Android Auto for select Infiniti",
+      "name": "RDV Wireless Carplay/Android Auto for select Infiniti (CP2-INF-Q70)",
       "sku": "CP2-INF-Q70",
       "upc": "",
       "brand": "RDV",
@@ -1621,7 +1621,7 @@
     },
     {
       "id": "ca-cf5788c7b4",
-      "name": "RDV Wireless Carplay/Android Auto for select Lexus",
+      "name": "RDV Wireless Carplay/Android Auto for select Lexus w/ joystick or small touchpad (CP3-LEX15)",
       "sku": "CP3-LEX15",
       "upc": "",
       "brand": "RDV",
@@ -1638,7 +1638,7 @@
     },
     {
       "id": "ca-a80b0aaadc",
-      "name": "RDV Wireless Carplay/Android Auto for select Lexus",
+      "name": "RDV Wireless Carplay/Android Auto for select Lexus w/ round knob (CP3-LEX17)",
       "sku": "CP3-LEX17",
       "upc": "",
       "brand": "RDV",
@@ -1672,7 +1672,7 @@
     },
     {
       "id": "ca-12d9b05711",
-      "name": "RDV Wireless Carplay/Android Auto for select Mercedes",
+      "name": "RDV Wireless Carplay/Android Auto for select Mercedes w/ NTG4 (CP1-NTG4)",
       "sku": "CP1-NTG4",
       "upc": "",
       "brand": "RDV",
@@ -1689,7 +1689,7 @@
     },
     {
       "id": "ca-441347c471",
-      "name": "RDV Wireless Carplay/Android Auto for select Mercedes",
+      "name": "RDV Wireless Carplay/Android Auto for select Mercedes w/ NTG4.5 (CP1-NTG45)",
       "sku": "CP1-NTG45",
       "upc": "",
       "brand": "RDV",
@@ -1706,7 +1706,7 @@
     },
     {
       "id": "ca-236d00876b",
-      "name": "RDV Wireless Carplay/Android Auto for select Porsche",
+      "name": "RDV Wireless Carplay/Android Auto for select Porsche w/ navigation PCM3.1 radio (CP1-PCM3.1)",
       "sku": "CP1-PCM3.1",
       "upc": "",
       "brand": "RDV",
@@ -1723,7 +1723,7 @@
     },
     {
       "id": "ca-1b2c2dc9eb",
-      "name": "RDV Wireless Carplay/Android Auto for select Porsche",
+      "name": "RDV Wireless Carplay/Android Auto for select Volvo V40 / V60 / S60 / S80 / XC60 (CP1-VOLVO)",
       "sku": "CP1-VOLVO",
       "upc": "",
       "brand": "RDV",
@@ -1774,7 +1774,7 @@
     },
     {
       "id": "ca-34eae97f9c",
-      "name": "RDV Wireless Carplay/Android Auto for select VW Toureg",
+      "name": "RDV Wireless Carplay/Android Auto for select VW Touareg (CP1-TRG8)",
       "sku": "CP1-TRG8",
       "upc": "",
       "brand": "RDV",
@@ -1791,7 +1791,7 @@
     },
     {
       "id": "ca-15895ce2f8",
-      "name": "RDV Wireless Carplay/Android Auto for select VW Toureg",
+      "name": "RDV Wireless Carplay/Android Auto for select VW Touareg w/ non-nav 6.5-inch screen (CP2-TRG65)",
       "sku": "CP2-TRG65",
       "upc": "",
       "brand": "RDV",
@@ -2539,7 +2539,7 @@
     },
     {
       "id": "ca-2996abdb70",
-      "name": "JVC 6.8” Digital Multimedia Receiver, CarPlay & Android Auto (Wireless)",
+      "name": "JVC KW-M875BW 6.8” Digital Multimedia Receiver, CarPlay & Android Auto (Wireless)",
       "sku": "KW-M875BW",
       "upc": "",
       "brand": "JVC",
@@ -2556,7 +2556,7 @@
     },
     {
       "id": "ca-e72e0eb8dc",
-      "name": "JVC 6.8” Digital Multimedia Receiver, CarPlay & Android Auto (Wireless)",
+      "name": "JVC KW-M690BW 6.8” Digital Multimedia Receiver, CarPlay & Android Auto (Wireless)",
       "sku": "KW-M690BW",
       "upc": "",
       "brand": "JVC",
@@ -2573,7 +2573,7 @@
     },
     {
       "id": "ca-74c54cae17",
-      "name": "JVC 6.8” Digital Multimedia Receiver, CarPlay & Android Auto (Wireless)",
+      "name": "JVC KW-M695BW 6.8” Digital Multimedia Receiver, CarPlay & Android Auto (Wireless)",
       "sku": "KW-M695BW",
       "upc": "",
       "brand": "JVC",
@@ -4153,7 +4153,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/x2602.jpg"
     },
     {
       "id": "ca-e9b33dadeb",
@@ -4170,7 +4171,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/x26.2.jpg"
     },
     {
       "id": "ca-bd1be4f71a",
@@ -10557,7 +10559,7 @@
     },
     {
       "id": "dd-5255c979fe",
-      "name": "DD Audio 1100W Monoblock",
+      "name": "DD Audio SS1100 1100W Monoblock",
       "sku": "SS1100",
       "upc": "",
       "brand": "DD Audio",
@@ -10811,7 +10813,7 @@
     },
     {
       "id": "dd-63fd37d646",
-      "name": "DD Audio 1100W Monoblock",
+      "name": "DD Audio D1100 1100W Compact Monoblock",
       "sku": "D1100",
       "upc": "",
       "brand": "DD Audio",
@@ -11939,7 +11941,7 @@
     },
     {
       "id": "dd-185cc61c2a",
-      "name": "DD Audio MW 800 Mid - Woofer",
+      "name": "DD Audio MW 800 12\" Mid-Woofer (VO-MW812)",
       "sku": "VO-MW812-S2/S4",
       "upc": "",
       "brand": "DD Audio",
@@ -11959,7 +11961,7 @@
     },
     {
       "id": "dd-ef31f84a47",
-      "name": "DD Audio MW 800 Mid - Woofer",
+      "name": "DD Audio MW 800 15\" Mid-Woofer (VO-MW815)",
       "sku": "VO-MW815-S2/S4",
       "upc": "",
       "brand": "DD Audio",
@@ -11979,7 +11981,7 @@
     },
     {
       "id": "dd-81148d7ad5",
-      "name": "DD Audio MWN 800 Neo Mid-Woofer",
+      "name": "DD Audio MWN 800 12\" Neo Mid-Woofer (VO-MWN812)",
       "sku": "VO-MWN812-S4",
       "upc": "",
       "brand": "DD Audio",
@@ -11999,7 +12001,7 @@
     },
     {
       "id": "dd-56f569806e",
-      "name": "DD Audio MWN 800 Neo Mid-Woofer",
+      "name": "DD Audio MWN 800 15\" Neo Mid-Woofer (VO-MWN815)",
       "sku": "VO-MWN815-S4",
       "upc": "",
       "brand": "DD Audio",
