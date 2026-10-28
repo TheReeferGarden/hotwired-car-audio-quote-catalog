@@ -12,16 +12,16 @@ This repo is where the HW quote-builder bot leaves finished deliverables. The HW
 
 ## Current handoff
 
-No pending handoff.
+Pending: bundle7, in `handoff/2026-10-28-bundle7/` (see the README.md in that folder). Hides CP3-LEX17 page-side.
 
-Last one: bundle6, md5 `90120dc456ab60695c1c7c3bdb5b1a6d`, 723,758 bytes, published 2026-10-27 via site commit `5e196324`. It was pushed directly into `hotwiredcaraudio-site` as a one-time test, which worked.
+Previous: bundle6, md5 `90120dc456ab60695c1c7c3bdb5b1a6d`, 723,758 bytes, published 2026-10-27 via site commit `5e196324`. It was pushed directly into `hotwiredcaraudio-site` as a one-time test, which worked.
 
 The site repo is a full app. Static pages live under `public/`.
 
-| Files (in `handoff/<folder>/`) | md5 | Bytes | Destination in `hotwiredcaraudio-site` | Status |
+| Files (in `handoff/2026-10-28-bundle7/`) | md5 | Bytes | Destination in `hotwiredcaraudio-site` | Status |
 |---|---|---|---|---|
-| `index.html` | (fill in) | (fill in) | `public/quote/index.html` | none pending |
-| `Hotwired-Quote-Builder.html` | (fill in) | (fill in) | `public/quote/Hotwired-Quote-Builder.html` | none pending |
+| `index.html` | `cbf260374807a4aa63cc8d194f307b38` | 724,128 | `public/quote/index.html` | pending Grok Build |
+| `Hotwired-Quote-Builder.html` | `cbf260374807a4aa63cc8d194f307b38` | 724,128 | `public/quote/Hotwired-Quote-Builder.html` | pending Grok Build |
 
 The two quote-builder files are byte-identical twins, so both rows carry the same md5 and byte count.
 
