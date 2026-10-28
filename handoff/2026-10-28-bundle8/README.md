@@ -24,7 +24,7 @@ The two files are byte-identical twins. Copy byte-for-byte. No editing, merging,
 - 10-digit phone check
 - 14-key Web3Forms payload (access_key, name, email, phone, first_name, last_name, subject, message, vehicle, option, radio, parts_total, from_name, botcheck)
 - CP3-LEX17 hidden page-side (bundle7)
-- CDN line: `var HW_DATA_BASE_DEFAULT = 'https://cdn.jsdelivr.net/gh/TheReeferGarden/hotwired-car-audio-quote-catalog@main/';`
+- CDN line: `var HW_DATA_BASE_DEFAULT = 'https://cdn.jsdelivr.net/gh/allsiterepos/hotwired-car-audio-quote-catalog@main/';`
 
 ## Tested
 
