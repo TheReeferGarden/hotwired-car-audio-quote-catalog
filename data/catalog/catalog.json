@@ -579,7 +579,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/vl4000d.jpg"
     },
     {
       "id": "ca-602d180ad0",
@@ -597,7 +598,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "kitGauge": 4
+      "kitGauge": 4,
+      "image": "img/products/vl3000d.jpg"
     },
     {
       "id": "ca-36c48c70a6",
@@ -614,7 +616,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/vl2000.4.jpg"
     },
     {
       "id": "ca-f6c62b69ae",
@@ -631,7 +634,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/vl1200.4.jpg"
     },
     {
       "id": "ca-448a4ab9e3",
@@ -648,7 +652,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/vl3200.5.jpg"
     },
     {
       "id": "ca-b4c2e6deed",
@@ -832,7 +837,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/acx-600.1.jpg"
     },
     {
       "id": "ca-2cf677a456",
@@ -922,7 +928,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "kitGauge": 4
+      "kitGauge": 4,
+      "image": "img/products/xmgs100.jpg"
     },
     {
       "id": "ca-753e24d717",
@@ -940,7 +947,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "kitGauge": 4
+      "kitGauge": 4,
+      "image": "img/products/xm4es.jpg"
     },
     {
       "id": "ca-7f50933cee",
@@ -958,7 +966,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "kitGauge": 0
+      "kitGauge": 0,
+      "image": "img/products/xm5es.jpg"
     },
     {
       "id": "ca-a6dc9248fb",
@@ -976,7 +985,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "kitGauge": 0
+      "kitGauge": 0,
+      "image": "img/products/xm6es.jpg"
     },
     {
       "id": "ca-3374d709c8",
@@ -994,7 +1004,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "kitGauge": 0
+      "kitGauge": 0,
+      "image": "img/products/xm8es.jpg"
     },
     {
       "id": "ca-a557e266bd",
@@ -1012,7 +1023,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "kitGauge": 4
+      "kitGauge": 4,
+      "image": "img/products/xm1es.jpg"
     },
     {
       "id": "ca-042a444b55",
@@ -1029,7 +1041,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/link1000.5plus.jpg"
     },
     {
       "id": "ca-77eb859418",
@@ -1046,7 +1059,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/link1000.1mini.jpg"
     },
     {
       "id": "ca-0afa8c517f",
@@ -1064,7 +1078,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "kitGauge": 0
+      "kitGauge": 0,
+      "image": "img/products/link1500.1plus.jpg"
     },
     {
       "id": "ca-0e19644e35",
@@ -1081,7 +1096,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/link300.4mini.jpg"
     },
     {
       "id": "ca-3b92a281bb",
@@ -1098,7 +1114,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/link500.4mini.jpg"
     },
     {
       "id": "ca-1e59224df6",
@@ -1115,7 +1132,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/link500.1mini.jpg"
     },
     {
       "id": "ca-c71ce8327d",
@@ -1133,7 +1151,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "kitGauge": 4
+      "kitGauge": 4,
+      "image": "img/products/link700.4plus.jpg"
     },
     {
       "id": "ca-732217de58",
@@ -4209,7 +4228,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/aw-630sp.jpg"
     },
     {
       "id": "ca-c1795f7a87",
@@ -4226,7 +4246,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/aw-646sp.jpg"
     },
     {
       "id": "ca-dce17c17dd",
@@ -4260,7 +4281,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/aw-660sp.jpg"
     },
     {
       "id": "ca-2100d1b43b",
@@ -4277,7 +4299,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/cs-dr521.jpg"
     },
     {
       "id": "ca-0c824cc711",
@@ -4294,7 +4317,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/cs-dr6821.jpg"
     },
     {
       "id": "ca-c55c508614",
@@ -4311,7 +4335,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/csj6820.jpg"
     },
     {
       "id": "ca-872f4393d6",
@@ -4328,7 +4353,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/cs-dr6931.jpg"
     },
     {
       "id": "ca-206a93bfd6",
@@ -4345,7 +4371,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/cs-dr6941.jpg"
     },
     {
       "id": "ca-769b568e52",
@@ -4362,7 +4389,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/cs-df620.jpg"
     },
     {
       "id": "ca-7593098f53",
@@ -4379,7 +4407,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/cs-dr621.jpg"
     },
     {
       "id": "ca-bfb6be800e",
@@ -4396,7 +4425,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/cs-dr601c.jpg"
     },
     {
       "id": "ca-07b6e84910",
@@ -4413,7 +4443,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/cs-df6920.jpg"
     },
     {
       "id": "ca-322510ef73",
@@ -4430,7 +4461,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/xs160gs.jpg"
     },
     {
       "id": "ca-21c7ccb748",
@@ -4447,7 +4479,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/xs162gs.jpg"
     },
     {
       "id": "ca-c7e9c7545f",
@@ -4464,7 +4497,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/xs680gs.jpg"
     },
     {
       "id": "ca-a664d28e25",
@@ -4481,7 +4515,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/xs690gs.jpg"
     },
     {
       "id": "ca-24e986863e",
@@ -4498,7 +4533,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/xs163es.jpg"
     },
     {
       "id": "ca-f1399d43ef",
@@ -4515,7 +4551,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/xs160es.jpg"
     },
     {
       "id": "ca-5d205f3c37",
@@ -4532,7 +4569,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/xs162es.jpg"
     },
     {
       "id": "ca-952ff9dde8",
@@ -4549,7 +4587,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/xs680es.jpg"
     },
     {
       "id": "ca-77c98290e7",
@@ -4566,7 +4605,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/xs690es.jpg"
     },
     {
       "id": "ca-50e0825050",
@@ -4583,7 +4623,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/xs692es.jpg"
     },
     {
       "id": "ca-7f7aebea4d",
@@ -6817,7 +6858,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/xsw104gs.jpg"
     },
     {
       "id": "ca-2a7875e336",
@@ -6834,7 +6876,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/xsw124gs.jpg"
     },
     {
       "id": "ca-f3d8ba7423",
@@ -6851,7 +6894,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/xsw104es.jpg"
     },
     {
       "id": "ca-59e88335fb",
@@ -6868,7 +6912,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/xsw122es.jpg"
     },
     {
       "id": "ca-6c9095750b",
@@ -6885,7 +6930,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/xsw124es.jpg"
     },
     {
       "id": "ca-63eacf4150",
@@ -6902,7 +6948,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/thinpro10-2.jpg"
     },
     {
       "id": "ca-d838988de2",
@@ -6919,7 +6966,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/thinpro10-4.jpg"
     },
     {
       "id": "ca-696180aacf",
@@ -6936,7 +6984,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/thinpro12-2.jpg"
     },
     {
       "id": "ca-a9aa93f62f",
@@ -6953,7 +7002,8 @@
       "showPrice": true,
       "laborNote": null,
       "taxable": true,
-      "market": "car"
+      "market": "car",
+      "image": "img/products/thinpro12-4.jpg"
     },
     {
       "id": "210000000039",
@@ -7660,7 +7710,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/viv1012.jpg"
     },
     {
       "id": "mem-640886f299",
@@ -7679,7 +7730,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/viv1212.jpg"
     },
     {
       "id": "mem-648913c3fe",
@@ -7698,7 +7750,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/mj1212v.jpg"
     },
     {
       "id": "mem-bf4191047a",
@@ -7717,7 +7770,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/mj1512.jpg"
     },
     {
       "id": "mem-96aa77987a",
@@ -7755,7 +7809,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/mjm812.jpg"
     },
     {
       "id": "mem-ab0d8010e4",
@@ -7774,7 +7829,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/mjp822.jpg"
     },
     {
       "id": "mem-fe292fc317",
@@ -7793,7 +7849,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/mjp844.jpg"
     },
     {
       "id": "mem-6ec67d7f55",
@@ -7812,7 +7869,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/mjp1022.jpg"
     },
     {
       "id": "mem-c91f89d6b1",
@@ -7831,7 +7889,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/mjp1044.jpg"
     },
     {
       "id": "mem-e6f8266e7b",
@@ -7850,7 +7909,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/mjp1222.jpg"
     },
     {
       "id": "mem-b81ae5cf80",
@@ -7869,7 +7929,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/mjp1244.jpg"
     },
     {
       "id": "mem-e853618f4c",
@@ -7888,7 +7949,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/mjp1522.jpg"
     },
     {
       "id": "mem-457e2e8eb1",
@@ -7907,7 +7969,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/mjp1544.jpg"
     },
     {
       "id": "mem-a4ef9a466f",
@@ -7945,7 +8008,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/prx824v2.jpg"
     },
     {
       "id": "mem-a0cc518817",
@@ -7964,7 +8028,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/prx10ftv.jpg"
     },
     {
       "id": "mem-5eba7485c2",
@@ -7983,7 +8048,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/prx12ftv.jpg"
     },
     {
       "id": "mem-788cbc8942",
@@ -8002,7 +8068,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": "new2026"
+      "flags": "new2026",
+      "image": "img/products/prxl10ftv.jpg"
     },
     {
       "id": "mem-b7e15ef539",
@@ -8021,7 +8088,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": "new2026"
+      "flags": "new2026",
+      "image": "img/products/prxl12ftv.jpg"
     },
     {
       "id": "mem-d172aa9811",
@@ -8040,7 +8108,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": "closeout"
+      "flags": "closeout",
+      "image": "img/products/prxl10ft.jpg"
     },
     {
       "id": "mem-dc045537a6",
@@ -8059,7 +8128,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": "closeout"
+      "flags": "closeout",
+      "image": "img/products/prxl12ft.jpg"
     },
     {
       "id": "mem-3aeb6c6db2",
@@ -8078,7 +8148,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": "new2026"
+      "flags": "new2026",
+      "image": "img/products/76prxl12ftv.jpg"
     },
     {
       "id": "mem-138d66de2d",
@@ -8097,7 +8168,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/prxs1024.jpg"
     },
     {
       "id": "mem-fdac89cc80",
@@ -8116,7 +8188,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/prxs1224.jpg"
     },
     {
       "id": "mem-69a9166395",
@@ -8154,7 +8227,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/srx1040v.jpg"
     },
     {
       "id": "mem-47ce303468",
@@ -8173,7 +8247,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/srx1044v.jpg"
     },
     {
       "id": "mem-d9c560221b",
@@ -8192,7 +8267,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/srx1240v.jpg"
     },
     {
       "id": "mem-26811191a0",
@@ -8211,7 +8287,8 @@
       "laborNote": null,
       "taxable": true,
       "market": "car",
-      "flags": ""
+      "flags": "",
+      "image": "img/products/srx1244v.jpg"
     },
     {
       "id": "mem-322508f39b",
@@ -10034,7 +10111,8 @@
       "showPrice": true,
       "laborNote": "+ Labor",
       "taxable": true,
-      "market": "harley"
+      "market": "harley",
+      "image": "img/products/bc-hd69-14u.jpg"
     },
     {
       "id": "ca-bf91d43138",
@@ -10068,7 +10146,8 @@
       "showPrice": true,
       "laborNote": "+ Labor",
       "taxable": true,
-      "market": "harley"
+      "market": "harley",
+      "image": "img/products/bc-hdlfp.jpg"
     },
     {
       "id": "ca-b6920f56c6",
@@ -10085,7 +10164,8 @@
       "showPrice": true,
       "laborNote": "+ Labor",
       "taxable": true,
-      "market": "harley"
+      "market": "harley",
+      "image": "img/products/bc-hdlfpp.jpg"
     },
     {
       "id": "ca-2fb16ae54f",
@@ -10102,7 +10182,8 @@
       "showPrice": true,
       "laborNote": "+ Labor",
       "taxable": true,
-      "market": "harley"
+      "market": "harley",
+      "image": "img/products/bc-hdlfsp-1.jpg"
     },
     {
       "id": "ca-91062d76c0",
